@@ -75,3 +75,6 @@ O projeto contém um workflow configurado do **GitHub Actions** em `.github/work
 
 ---
 **Desenvolvido como parte do Desafio Técnico de QA Automation.**
+
+## Desafio Zig
+Entrega realizada via Pull Request.
