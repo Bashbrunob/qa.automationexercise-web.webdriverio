@@ -72,7 +72,7 @@ O relatório será aberto automaticamente no seu navegador padrão.
 ```text
 .
 ├── test/
-│   ├── data/             # Fábrica de dados e massa de teste
+│   ├── data/             # Dados e massa de teste
 │   ├── pageobjects/      # Classes Page Object (POM)
 │   └── specs/            # Arquivos de teste E2E (*.e2e.js)
 ├── wdio.conf.js          # Configuração do WebdriverIO
